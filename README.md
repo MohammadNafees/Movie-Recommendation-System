@@ -50,6 +50,29 @@ We use the **IMDB 5000 Movie Dataset**, which includes:
 4. **Recommendation**:
    - Input a movie title and get similar recommendations
 
+              precision    recall  f1-score   support
+
+    Positive       0.75      0.76      0.75      4993
+    Negative       0.75      0.75      0.75      5007
+
+    accuracy                           0.75     10000
+   macro avg       0.75      0.75      0.75     10000
+weighted avg       0.75      0.75      0.75     10000
+
+              precision    recall  f1-score   support
+
+    Positive       0.75      0.76      0.75      4993
+    Negative       0.75      0.74      0.75      5007
+
+    accuracy                           0.75     10000
+   macro avg       0.75      0.75      0.75     10000
+weighted avg       0.75      0.75      0.75     10000
+
+<img width="611" height="314" alt="image" src="https://github.com/user-attachments/assets/1350bec6-dd71-4fa7-9ff2-29af04980fc0" />
+
+
+<img width="611" height="314" alt="image" src="https://github.com/user-attachments/assets/5f857d3e-00a1-4859-a04f-837a93799c7c" />
+
 ## ▶️ Getting Started
 
 ### 1. Clone the Repository
